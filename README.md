@@ -11,3 +11,6 @@ I'm working on it individually
 ## Do you have any questions of your own?
 
 None at the time being.
+
+# Link to walkthrough on YouTube
+https://youtu.be/0V4-NTEdM9Q
